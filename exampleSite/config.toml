@@ -109,7 +109,7 @@ weight  = 3
 [[menu.nav]]
 name    = "portfolio"
 url     = "portfolio"
-weight  = 0
+weight  = 4 
 [[menu.nav]]
 name    = "blog"
 url     = "blog"
@@ -121,15 +121,15 @@ weight  = 6
 
 # Footer Service Menu
 [[menu.service]]
-name    = "contentwriting
+name    = "contentwriting"
 url     = "service"
 weight  = 1
 [[menu.service]]
-name    = "copywriting
+name    = "copywriting"
 url     = "service"
 weight  = 2
 [[menu.service]]
-name    = "creativewriting
+name    = "creativewriting"
 url     = "service"
 weight  = 3
 
@@ -149,4 +149,4 @@ weight  = 3
 [[menu.quicklink]]
 name    = "badges"
 url     = "about"
-weight  = 0
+weight  = 4 
