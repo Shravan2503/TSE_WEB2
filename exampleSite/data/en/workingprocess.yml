@@ -1,28 +1,31 @@
 enable  : true
-topTitle: HOW WE WORKS
+topTitle: HOW WE WORK
 title   : Our Work Process
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: The extensive process by which we extract thoughts and ideas to work on creating content for your project.
 item    :
   - number  : 1
     icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    title   : Idea Extraction
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Through conversations, we ensure we understand expectations and ideas.
 
   - number  : 2
     icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+    title   : Content Development
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      We convert ideas and thoughts into words, a draft that reflects the project.
+
 
   - number  : 3
-    icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+    icon    : tf-ion-ios-locked-outline
+    title   : Branding & Creative Ideas
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Building on the content to create a brand identity and use age-old principles and be creative.
+
 
   - number  : 4
-    icon    : tf-ion-ios-locked-outline
-    title   : Secure System
+    icon    : tf-ion-ios-email-outline
+    title   : Refining & Revision
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Having completed the task, final refining is done and one revision is possible, if necessary.
+
