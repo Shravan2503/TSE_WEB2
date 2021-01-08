@@ -1,28 +1,28 @@
 enable    : true
 topTitle  : A LIST OF SERVICES
 title     : Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  : The services we offer are personalised and deeply cared for. Modestly packaged, intuitive and quick services.
 item      :
   - icon  : tf-ion-ios-copy-outline
-    title : Branding
+    title : Content Writing
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : Academic papers
+      - name : Assignments
+      - name : SOPs & LORs
+      - name : Blogs & Articles
 
   - icon  : tf-ion-ios-alarm-outline
-    title : Branding
+    title : Copy Writing
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : Adverts, Print & TVCs
+      - name : Account management
+      - name : Social Media
+      - name : Design, Packaging.
 
   - icon  : tf-ion-ios-book-outline
-    title : IOS App Development
+    title : Creative Writing
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : Branding, Ideas
+      - name : Scripting, Films
+      - name : Web management
+      - name : Ad Campaigns
