@@ -1,25 +1,26 @@
 enable    : true
 topTitle   : LITTLE MORE BRIEF
 title     : About Us.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  : Some personal thoughts on what drives us, from the inside.
 tabItem   :
   - id        : philosophy
     title     : Our Philosophy
-    heading   : We Create Designs and technology
+    heading   : We’re committed to creating value.
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
-    image     : images/company/company-image.jpg
+      We sincerely believe every product can add value to someone at some point in time, and that time is the most valuable asset for humankind. With our money on time, we intend to create most value for those who ask us for help, thus creating an ecosystem of valuable products for those who can value them with honesty and dignity.
+   image     : images/company/company-image.jpg
 
   - id        : mission
     title     : Mission
-    heading   : Our Mission
+    heading   : What we intend to do
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Our mission is to transform your ideas into thoughts, thoughts into words, extract those words and put them on paper for the world to see and experience. To feel content as people experience our creations and watch it evolve into something beautiful in their minds, and in conversations. To transform everyday life into stories for the generations to come.
     image     : images/company/company-image-2.jpg
 
   - id        : vision
     title     : Vision
-    heading   : Our Vision
+    heading   : What we see us doing
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      To grow brands, and to grow as a brand. When looking back at a certain time in history, to have the pop culture flooded with ideas and products handled by us.
+To march forward without looking back, and when time comes, to have created a path for others to follow us, in our path in a journey of rigour and fortitude, with tenets based on time, passion and quest.
     image     : images/company/company-image-3.jpg
