@@ -5,7 +5,7 @@ subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 
 item  :
   - name        : BASIC
-    price       : $99
+    price       : 4.5 INR/WORD
     description : Perfect for single freelancers who work by me
     featurelist :
       - item: abc
