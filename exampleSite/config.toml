@@ -49,7 +49,7 @@ expire_days = 2
 
 # Hero Area Section
 [Languages.en.params.hero]
-enable  = true
+enable  = false
 heading = "We love to make brands grow"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button  = true
@@ -66,7 +66,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae de
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
-enable  = true
+enable  = false
 topTitle= "OUR UNTOLD STORY"
 title   = "Blog."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -77,21 +77,17 @@ enable  = true
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
-facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin= "https://www.linkedin.com/"
-dribbble= "https://dribbble.com/"
-instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude= "-0.127758"
-mapMarker   = "images/marker.png"
+address = "A3FOD, Jains Palm N Meadows, Ammapalayam, Tiruppur 641652"
+phone   = "+91 97919 31119"
+email    = "shravan@thescriptexpress.com"
+facebook= "https://www.facebook.com/thescriptexpress"
+twitter = "https://twitter.com/thescriptexpress"
+linkedin= "https://www.linkedin.com/thescriptexpress"
+instagram= "https://www.instagram.com/thescriptexpress"
 
 # Call to Action Section on About Page
 [Languages.en.params.cta]
-enable  = true
+enable  = false
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Let's Create Something Together"
 subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
@@ -113,7 +109,7 @@ weight  = 3
 [[menu.nav]]
 name    = "portfolio"
 url     = "portfolio"
-weight  = 4
+weight  = 0
 [[menu.nav]]
 name    = "blog"
 url     = "blog"
@@ -125,15 +121,15 @@ weight  = 6
 
 # Footer Service Menu
 [[menu.service]]
-name    = "graphicdesign"
+name    = "contentwriting
 url     = "service"
 weight  = 1
 [[menu.service]]
-name    = "webdesign"
+name    = "copywriting
 url     = "service"
 weight  = 2
 [[menu.service]]
-name    = "webdevelopment"
+name    = "creativewriting
 url     = "service"
 weight  = 3
 
@@ -153,4 +149,4 @@ weight  = 3
 [[menu.quicklink]]
 name    = "badges"
 url     = "about"
-weight  = 4
+weight  = 0
