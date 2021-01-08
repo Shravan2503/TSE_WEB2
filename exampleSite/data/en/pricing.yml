@@ -1,44 +1,44 @@
 enable  : true
-topTitle: EASY PRICING
+topTitle: Cost of services
 title   : Pricing.
-subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle : Dynamic pricing suited to different market caps. Services can be added or removed. The ultimate content creation menu.
 
 item  :
-  - name        : BASIC
-    price       : $99
-    description : Perfect for single freelancers who work by themselves
+  - name        : INDIVIDUAL
+    price       : 4.5 INR/WORD
+    description : Perfect for individuals who need help to put their ideas on paper
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Academic papers
+      - item: Assignments
+      - item: SOPs and LORs
+      - item: Blogs, Personal
+      - item: Social Media Posts
+      - item: Scripts: short films & mini-documentary
+    btnText     : Mail in
+    btnURL      : mailto:shravan@thescriptexpress.com
 
-  - name        : ADVANCE
-    price       : $199
-    description : Suitable for small businesses with up to 5 employees
+  - name        : PRODUCT
+    price       : 6 INR/WORD
+    description : Preparing your product for the world to see, and experience.
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Advertisement: Print & TVCs
+      - item: Branding: Idea generation
+      - item: Content: Social and Web
+      - item: Design: Packing & Pricing
+      - item: Scripts: Films & Documentaries
+      - item: Blogs and Articles
+    btnText     : Mail In
+    btnURL      : mailto:shravan@thescriptexpress.com
 
-  - name        : PROFESSIONAL
-    price       : $299
-    description : Great for large businesses with more than 5 employees
+  - name        : ENTERPRISE
+    price       : 7.5 INR/WORD
+    description : Complete account management to turn your company into a brand.
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Account management
+      - item: ABCD for products
+      - item: Blogs and Articles
+      - item: Scripts: Corporate Films & Documentaries
+      - item: Below the line advertising
+      - item: Web management
+    btnText     : Mail In
+    btnURL      : mailto:shravan@thescriptexpress.com
