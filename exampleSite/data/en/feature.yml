@@ -1,16 +1,18 @@
 enable  : true
 item  :
   - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+    title : Well Documented
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+       All our services are ethically bound and well documented. Every account is properly planned thus making the project future proof and healthy.
+
 
   - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+    title : Meeting Deadlines
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      One of our core tenet is being punctual, responsive and meeting deadlines. We keep our tabs on the number of hours and words written. 
+
 
   - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+    title : Ingenious & Reliable
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      We make it a point that our work is specially crafted for the client and audience. We love expressing ingenious ideas in our format, the script.
