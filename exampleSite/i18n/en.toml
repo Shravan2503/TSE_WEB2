@@ -2,7 +2,7 @@
 other = "About"
 [service]
 other = "Service"
-[Ignore]
+[portfolio]
 other = "Portfolio"
 [blog]
 other = "Blog"
@@ -20,5 +20,5 @@ other = "Creative Writing"
 other = "Partners"
 [faqs]
 other = "FAQ's"
-[Ignore]
+[badges]
 other = "Badges"
