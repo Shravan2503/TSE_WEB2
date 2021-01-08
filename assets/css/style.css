@@ -394,7 +394,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
-  color: #cfcfcf;
+  color: #ff0000;
   font-weight: 200;
   font-family: "Titillium Web", sans-serif;
 }
