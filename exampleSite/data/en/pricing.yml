@@ -4,31 +4,31 @@ title   : Pricing.
 subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
 
 item  :
-  - name        : BASIC
+  - name        : INDIVIDUAL
     price       : 4.5 INR/WORD
-    description : Perfect for single freelancers who work by me
+    description : Perfect for individuals who need help to put their ideas on paper
     featurelist :
-      - item: abc
-      - item: abc
-      - item: abc
-      - item: abc
-      - item: abc
-      - item: abc
+      - item: Academic papers
+      - item: Assignments
+      - item: SOPs & LORs
+      - item: Blogs, Personal
+      - item: Social Media Posts
+      - item: Scripts for short films
     btnText     : Mail In
     btnURL      : mailto:shravan@thescriptexpress.com
 
-  - name        : ADVANCE
-    price       : $199
-    description : Suitable for small businesses with up to 5 employees
+  - name        : PRODUCT
+    price       : 6.5 INR/WORD
+    description : Preparing your product for the world to see, and experience.
     featurelist :
-      - item: 1GB Disk Space
-      - item: 10 Email Account
-      - item: Script Installer
-      - item: 1 GB Storage
-      - item: 10 GB Bandwidth
-      - item: 24/7 Tech Support
-    btnText     : Sign Up
-    btnURL      : https://themefisher.com/
+      - item: Adverts, Print & TVCs
+      - item: Branding: Ideas
+      - item: Social & Web Content
+      - item: Design: Packing & Pricing
+      - item: Scripts for films/documentaries
+      - item: Blogs & Articles
+    btnText     : Mail In
+    btnURL      : mailto:shravan@thescriptexpress.com
 
   - name        : PROFESSIONAL
     price       : $299
