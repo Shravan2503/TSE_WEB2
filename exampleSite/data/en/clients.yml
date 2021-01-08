@@ -1,13 +1,13 @@
 enable    : true
 title     : We care about our work
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
+  Our clients are varied, from university students, to brands starting out, to established companies that create a multiple lines of products. For every client, we ask the same questions, and that is “When is the deadline?” We believe time is the most important entity and make it a choice to keep it interesting and exciting in the time-frame we’re together. Our extended team has,
 image     : images/about/about-1.jpg
 servicelist:
-  - name    : Creative Designers
-  - name    : Genius Developers
-  - name    : Growth Hackers
-  - name    : Marketing Masterminds
+  - name    : Cinematographers
+  - name    : Aerial Photographers
+  - name    : Directors
+  - name    : Editors
 clientLogo:
   - image   : images/client-logo/logo1.png
   - image   : images/client-logo/logo-2.png
