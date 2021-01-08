@@ -390,7 +390,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: transparent;
+  background: #f9f9f9;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
