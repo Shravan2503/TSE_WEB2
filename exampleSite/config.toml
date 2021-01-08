@@ -1,6 +1,6 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
+title = "The Script Express"
 theme = "navigator-hugo"
 summaryLength = 10
 
@@ -35,11 +35,11 @@ home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+footerDescription = "The Script Express is a creative writing firm focussed on creating the experience. "
 footerServiceTitle = "Service"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "About"
-footerSubscribeTitle = "Subscribe"
+footerSubscribeTitle = "Mailing List"
 
 
 # cookies
@@ -49,7 +49,7 @@ expire_days = 2
 
 # Hero Area Section
 [Languages.en.params.hero]
-enable  = true
+enable  = false
 heading = "We love to make brands grow"
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
 button  = true
@@ -61,12 +61,12 @@ videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored the digital landscape with passion for a long time"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+title   = "We have explored creative writing with passion for a long time"
+description = "The Script Express is a creative writing firm focussed on creating the experience. We’ve worked with a number of international clients in the past-ghost writing ad films, documentaries, film scripts and social media campaigns. Proficiency in the English language is our forte, and we’ve developed a strong command of advertising, branding, content and design."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
-enable  = true
+enable  = false
 topTitle= "OUR UNTOLD STORY"
 title   = "Blog."
 subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -76,22 +76,18 @@ subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reici
 enable  = true
 topTitle= "DROP US A NOTE"
 title   = "Contact Us."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone   = "(03) 9283 2617"
-fax     = "+61 3827 3590"
-facebook= "https://www.facebook.com/"
-twitter = "https://twitter.com/"
-linkedin= "https://www.linkedin.com/"
-dribbble= "https://dribbble.com/"
-instagram= "https://www.instagram.com/"
-mapLatitude = "51.507351"
-mapLongitude= "-0.127758"
-mapMarker   = "images/marker.png"
+subtitle= "Let's get in touch and let the world experience your ideas!"
+address = "A3FOD, Jains Palm N Meadows, Ammapalayam, Tiruppur 641652"
+phone   = "+91 97919 31119"
+fax     = "shravan@thescriptexpress.com"
+facebook= "https://www.facebook.com/thescriptexpress"
+twitter = "https://twitter.com/thescriptexpress"
+linkedin= "https://www.linkedin.com/thescriptexpress"
+instagram= "https://www.instagram.com/thescriptexpress"
 
 # Call to Action Section on About Page
 [Languages.en.params.cta]
-enable  = true
+enable  = false
 bg      = "images/call-to-action/call-to-action-bg-2.jpg"
 title   = "Let's Create Something Together"
 subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
