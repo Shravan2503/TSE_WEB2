@@ -3,11 +3,19 @@ languageCode = "en-us"
 title = "The Script Express"
 theme = "navigator-hugo"
 summaryLength = 10
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-08VSER9BTL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-08VSER9BTL');
+</script>
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = "" # your analitics ID
+googleAnalytics = "G-08VSER9BTL" # your analitics ID
 
 enableGitInfo = false
 pygmentsCodeFences = true
