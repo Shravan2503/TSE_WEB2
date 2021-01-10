@@ -34,12 +34,4 @@ member  :
     gplusURL      : https://plus.google.com/
     dribbbleURL   : https://dribbble.com/
 
-  - image         : images/team/member-4.jpg
-    name          : Ghost 3
-    designation   : Designer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+  
