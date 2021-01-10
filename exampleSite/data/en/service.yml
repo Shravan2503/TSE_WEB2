@@ -1,6 +1,6 @@
 enable    : true
 topTitle  : A LIST OF SERVICES
-title     : Our Service.
+title     : Our Services.
 subtitle  : The services we offer are personalised and deeply cared for. Modestly packaged, intuitive and quick services.
 item      :
   - icon  : tf-ion-ios-copy-outline
