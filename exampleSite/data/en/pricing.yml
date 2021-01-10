@@ -1,7 +1,7 @@
 enable  : true
 topTitle: COST OF SERVICES
 title   : Pricing.
-subtitle : Dynamic pricing suited to different market caps. Services can be added or removed. The ultimate content creation menu. 
+subtitle : Dynamic pricing suited to different market areas. Services can be added or removed. The ultimate content creation menu. 
 
 item  :
   - name        : INDIVIDUAL
@@ -34,7 +34,7 @@ item  :
     price       : 7.5 INR/WORD
     description : Complete account management to turn your company into a brand.
     featurelist :
-      - item: Account Handline
+      - item: Account Handling
       - item: ABCD Solutions
       - item: Blogs & Articles
       - item: Corporate Films
