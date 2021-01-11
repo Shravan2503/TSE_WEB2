@@ -49,11 +49,11 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-  color: #f0326b;
+  color: #97999B;
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #F9E547;
+  background-color: #97999B;
   background-image: linear-gradient(100deg, #f9643d, #fe2a77);
   color: #fff;
   display: inline-block;
@@ -331,7 +331,7 @@ a:focus, a:hover {
 
 .title h2 {
   font-size: 35px;
-  color: #F9E547;
+  color: #97999B;
   text-transform: capitalize;
   margin-bottom: 8px;
   font-weight: 700;
@@ -346,7 +346,7 @@ a:focus, a:hover {
 }
 
 .title p {
-  color: #F9E547;
+  color: #97999B;
   width: 50%;
   margin: 0 auto;
 }
@@ -394,7 +394,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
-  color: #F9E547;
+  color: #97999B;
   font-weight: 200;
   font-family: "Titillium Web", sans-serif;
 }
@@ -487,7 +487,7 @@ a:focus, a:hover {
 }
 
 .navigation .navbar-nav > li > a {
-  color: #F9E547;
+  color: #97999B;
   font-size: 15px;
   line-height: 26px;
   padding: 20px 15px !important;
