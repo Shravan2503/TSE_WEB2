@@ -374,7 +374,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #F9E547;
+  background: #97999B;
 }
 
 .color-gray {
@@ -390,7 +390,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: #F9E547;
+  background: #97999B;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
@@ -400,7 +400,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #F9E547;
+  color: #97999B;
 }
 
 .slick-slide {
