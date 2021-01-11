@@ -47,21 +47,10 @@ footerSubscribeTitle = "Mailing List"
 enable = true
 expire_days = 2
 
-# Hero Area Section
-[Languages.en.params.hero]
-enable  = false
-heading = "We love to make brands grow"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-button  = true
-btnText = "Know More"
-btnURL  = "https://themefisher.com/"
-videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
-
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "We have explored creative writing with passion for a long time"
+title   = "We are a creative writing firm focussed on creating the experience. "
 description = "The Script Express is a creative writing firm focussed on creating the experience. We’ve worked with a number of international clients in the past-ghost writing ad films, documentaries, film scripts and social media campaigns. Proficiency in the English language is our forte, and we’ve developed a strong command of advertising, branding, content and design."
 
 # Blog Section On Homepage
