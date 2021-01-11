@@ -374,7 +374,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #97999B;
+  background: #F9E547;
 }
 
 .color-gray {
@@ -432,7 +432,7 @@ a:focus, a:hover {
 .commonTab .nav-tabs .nav-item .nav-link:hover {
   border: 1px solid #F9E547;
   border-radius: 0;
-  background: #f0326b;
+  background: #F9E547;
   color: #fff;
 }
 
@@ -468,7 +468,7 @@ a:focus, a:hover {
 
 .navigation {
   transition: .3s all;
-  background: #97999B;
+  background: #F9E547;
 }
 
 .top-bar {
@@ -508,7 +508,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: #f0326b;
+  color: #F9E547;
 }
 
 .navigation .navbar-toggler {
@@ -534,7 +534,7 @@ a:focus, a:hover {
 
 .navigation .dropdown .dropdown-item:hover {
   background: transparent;
-  color: #f0326b;
+  color: #F9E547;
 }
 
 .navigation .dropdown .dropdown-menu {
@@ -730,7 +730,7 @@ a:focus, a:hover {
 
 .about h4 {
   font-size: 14px;
-  color: #f0326b;
+  color: #F9E547;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -754,7 +754,7 @@ a:focus, a:hover {
   About us 2 section
 ==================================================================*/
 .about-2 {
-  background: #F7F7F7;
+  background: #F9E547;
 }
 
 .about-2 h2 {
