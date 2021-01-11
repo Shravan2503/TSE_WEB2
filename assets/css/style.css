@@ -53,7 +53,7 @@ a:focus, a:hover {
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #97999B;
+  background-color: #F9E547;
   background-image: linear-gradient(100deg, #f9643d, #fe2a77);
   color: #fff;
   display: inline-block;
@@ -390,17 +390,17 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: #97999B;
+  background: #F9E547;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
-  color: #97999B;
+  color: #F9E547;
   font-weight: 200;
   font-family: "Titillium Web", sans-serif;
 }
 
 .header-bradcrumb a:hover {
-  color: #97999B;
+  color: #F9E547;
 }
 
 .slick-slide {
