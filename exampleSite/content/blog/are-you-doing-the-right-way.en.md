@@ -1,6 +1,6 @@
 ---
 title: The Silicon Story
-date: 08-01-2020
+date: 08-01-2021
 image: images/blog/silicon.jpg
 author: Shravan
 description: "Blog 01"
