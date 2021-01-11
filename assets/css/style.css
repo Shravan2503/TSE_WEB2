@@ -149,7 +149,7 @@ a:focus, a:hover {
 }
 
 #preloader {
-  background: #f0326b;
+  background: #F9E547;
   height: 100%;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -374,7 +374,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #000000;
+  background: #F9E547;
 }
 
 .color-gray {
@@ -390,11 +390,11 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: #97999B;
+  background: #F9E547;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
-  color: #cfcfcf;
+  color: #F9E547;
   font-weight: 200;
   font-family: "Titillium Web", sans-serif;
 }
