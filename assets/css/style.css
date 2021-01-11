@@ -374,7 +374,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #f9f9f9;
+  background: #000000;
 }
 
 .color-gray {
@@ -475,7 +475,7 @@ a:focus, a:hover {
   position: sticky;
   top: 0;
   width: 100%;
-  color: #fff;
+  color: #000;
   transition: all 0.2s ease-out 0s;
   padding: 10px 0;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
