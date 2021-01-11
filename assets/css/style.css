@@ -331,7 +331,7 @@ a:focus, a:hover {
 
 .title h2 {
   font-size: 35px;
-  color: #232323;
+  color: #97999B;
   text-transform: capitalize;
   margin-bottom: 8px;
   font-weight: 700;
@@ -346,7 +346,7 @@ a:focus, a:hover {
 }
 
 .title p {
-  color: #848484;
+  color: #97999B;
   width: 50%;
   margin: 0 auto;
 }
@@ -390,7 +390,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: #f9f9f9;
+  background: #97999B;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
@@ -468,7 +468,7 @@ a:focus, a:hover {
 
 .navigation {
   transition: .3s all;
-  background: #1f2532;
+  background: #97999B;
 }
 
 .top-bar {
@@ -487,7 +487,7 @@ a:focus, a:hover {
 }
 
 .navigation .navbar-nav > li > a {
-  color: #707d8f;
+  color: #97999B;
   font-size: 15px;
   line-height: 26px;
   padding: 20px 15px !important;
