@@ -331,7 +331,7 @@ a:focus, a:hover {
 
 .title h2 {
   font-size: 35px;
-  color: #97999B;
+  color: #F9E547;
   text-transform: capitalize;
   margin-bottom: 8px;
   font-weight: 700;
@@ -374,7 +374,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #F9E547;
+  background: #97999B;
 }
 
 .color-gray {
@@ -446,7 +446,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #1f2532;
+  background: #97999B;
   padding: 50px 0;
   text-align: center;
   color: #fff;
