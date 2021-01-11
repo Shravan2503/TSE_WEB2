@@ -50,7 +50,7 @@ expire_days = 2
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "Boo, our mascot welcomes you to our creative writing firm, named The Script Express."
+title   = "Boo, our mascot welcomes you to our creative writing firm,      The Script Express."
 description = "The Script Express is a creative writing firm focussed on creating the experience. We’ve worked with a number of international clients in the past-ghost writing ad films, documentaries, film scripts and social media campaigns. Proficiency in the English language is our forte, and we’ve developed a strong command of advertising, branding, content and design."
 
 # Blog Section On Homepage
