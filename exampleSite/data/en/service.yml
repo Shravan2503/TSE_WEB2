@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : A LIST OF SERVICES
 title     : Our Services.
-subtitle  : The services we offer are personalised and deeply cared for. Modestly packaged, intuitive and quick services.
+subtitle  : The services we offer are personalised, modestly packaged with intuitive and quick services.
 item      :
   - icon  : tf-ion-ios-copy-outline
     title : Content Writing
