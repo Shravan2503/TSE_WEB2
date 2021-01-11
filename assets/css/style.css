@@ -1,18 +1,18 @@
-@import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700");
+@import url("https://fonts.googleapis.com/css2?family=Redressed&display=swap" rel="stylesheet");
 body {
   line-height: 1.4;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Redressed", cursive;
   -webkit-font-smoothing: antialiased;
 }
 
 p {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Redressed", cursive;
   color: #97999B;
   font-size: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Redressed", cursive;
   font-weight: 600;
 }
 
