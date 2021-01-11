@@ -49,7 +49,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-  color: #97999B;
+  color: #F9E547;
 }
 
 .btn-main, .btn-main-sm {
@@ -374,7 +374,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #97999B;
+  background: #F9E547;
 }
 
 .color-gray {
