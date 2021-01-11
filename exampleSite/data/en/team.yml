@@ -1,7 +1,7 @@
 enable  : true
 topTitle: TEAM MEMBERS
 title   : Our Team.
-subtitle: The people behind making it happen, mentioning everything they bring to the table and credentials, to value. 
+subtitle: People and what they bring to the table and credentials, to value. 
 
 member  :
   - image         : images/team/member-1.jpg
