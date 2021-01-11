@@ -1,18 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700");
 body {
   line-height: 1.4;
-  font-family: 'Fredericka the Great', cursive;
+  font-family: "Titillium Web", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
 p {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: "Titillium Web", sans-serif;@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+body {
+  line-height: 1.4;
   color: #97999B;
   font-size: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: "Titillium Web", sans-serif;
   font-weight: 600;
 }
 
