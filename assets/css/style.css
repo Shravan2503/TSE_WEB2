@@ -424,7 +424,7 @@ a:focus, a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link.active {
-  border: 1px solid #f0326b;
+  border: 1px solid #F9E547;
   background: #F9E547;
   color: #fff;
 }
