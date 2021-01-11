@@ -2,7 +2,7 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : Telling memorable stories
+    title : Memorable storytelling.
     description : >
       We are about telling memorable stories about your brand. A story is about conveying thoughts. We tell stories in a way to bring the audience into the narrative by turning them into consumers. When they're our consumers, we tell stories that make them loyal and retain them, pivoting into an idea which is now part of their lives and people around them. We love talking for brands, with love, about.
   - positionRight : true
