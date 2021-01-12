@@ -12,9 +12,10 @@ member  :
  
   - image         : images/team/member-3.jpg
     name          : Mithru Kumar
-    designation   : Visual Artist
+    name          : Shivam
+    designation   : Visual Artists
     description   : >
-     Food, Fashion and Product.
+     Food, Fashion, People and Product.
      
   - image         : images/team/member-2.jpg
     name          : Baranidharan S
