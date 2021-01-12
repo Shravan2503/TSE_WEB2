@@ -29,22 +29,6 @@
                                 <h3>{{ .name }}</h3>
                                 <span>{{ .designation }}</span>
                                 <p>{{ .description }}</p>
-                                <ul class="list-inline">
-                                    {{ with .facebookURL }}
-                                    <li class="list-inline-item">
-                                        <a href="{{.}}">
-                                            <i class="tf-ion-social-instagram"></i>
-                                        </a>
-                                    </li>
-                                    {{ end }}
-                                    {{ with .twitterURL }}
-                                    <li class="list-inline-item">
-                                        <a href="{{.}}">
-                                            <i class="tf-ion-social-twitter"></i>
-                                        </a>
-                                    </li>
-                                    {{ end }}
-                                </ul>
                             </div>
                         </div>
                     </div>
