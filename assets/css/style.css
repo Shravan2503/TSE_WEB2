@@ -51,11 +51,11 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-  color: #F5DF4D;
+  color: #939597;
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #F5DF4D;
+  background-color: #939597;
   background-image: linear-gradient(100deg, #f9643d, #fe2a77);
   color: #fff;
   display: inline-block;
@@ -419,7 +419,7 @@ a:focus, a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link {
-  background: #F5DF4D;
+  background: #939597;
   color: #777;
   text-transform: capitalize;
   border-radius: 0;
@@ -427,14 +427,14 @@ a:focus, a:hover {
 
 .commonTab .nav-tabs .nav-item .nav-link.active {
   border: 1px solid #F5DF4D;
-  background: #F5DF4D;
+  background: #939597;
   color: #fff;
 }
 
 .commonTab .nav-tabs .nav-item .nav-link:hover {
   border: 1px solid #F5DF4D;
   border-radius: 0;
-  background: #F5DF4D;
+  background: #939597;
   color: #fff;
 }
 
@@ -448,7 +448,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #F5DF4D;
+  background: #939597;
   padding: 50px 0;
   text-align: center;
   color: #fff;
