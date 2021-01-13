@@ -396,7 +396,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
-  color: #939597;
+  color: #f0326b;
   font-weight: 200;
   font-family: "Titillium Web", sans-serif;
 }
@@ -510,7 +510,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: ##F5DF4D;
+  color: #F5DF4D;
 }
 
 .navigation .navbar-toggler {
