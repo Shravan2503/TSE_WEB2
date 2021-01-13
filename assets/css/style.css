@@ -448,7 +448,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #939597;
+  background: #F5DF4D;
   padding: 50px 0;
   text-align: center;
   color: #fff;
@@ -465,13 +465,13 @@ a:focus, a:hover {
 }
 
 .single-page-header .breadcrumb li a {
-  color: #F5DF4D;
+  color: #939597;
   
 }
 
 .navigation {
   transition: .3s all;
-  background: #F5DF4D;
+  background: #939597;
 }
 
 .top-bar {
@@ -490,7 +490,7 @@ a:focus, a:hover {
 }
 
 .navigation .navbar-nav > li > a {
-  color: #F5DF4D;
+  color: #939597;
   font-size: 15px;
   line-height: 26px;
   padding: 20px 15px !important;
@@ -511,7 +511,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: #F5DF4D;
+  color: #939597;
 }
 
 .navigation .navbar-toggler {
