@@ -465,12 +465,13 @@ a:focus, a:hover {
 }
 
 .single-page-header .breadcrumb li a {
-  color: #939597;
+  color: #F5DF4D;
+  
 }
 
 .navigation {
   transition: .3s all;
-  background: #939597;
+  background: #F5DF4D;
 }
 
 .top-bar {
@@ -715,7 +716,6 @@ a:focus, a:hover {
   About us section
 ==================================================================*/
 .about {
-  text-align: justify;
   background: #fff;
 }
 
@@ -757,7 +757,6 @@ a:focus, a:hover {
   About us 2 section
 ==================================================================*/
 .about-2 {
-  text-align: justify;
   background: #F5DF4D;
 }
 
