@@ -392,7 +392,7 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: #F5DF4D;
+  background: #939597;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
@@ -419,7 +419,7 @@ a:focus, a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link {
-  background: #F5DF4D;
+  background: #939597;
   color: #777;
   text-transform: capitalize;
   border-radius: 0;
@@ -448,7 +448,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #F5DF4D;
+  background: #939597;
   padding: 50px 0;
   text-align: center;
   color: #fff;
@@ -465,7 +465,7 @@ a:focus, a:hover {
 }
 
 .single-page-header .breadcrumb li a {
-  color: #F5DF4D;
+  color: #939597;
 }
 
 .navigation {
