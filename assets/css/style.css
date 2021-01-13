@@ -715,6 +715,7 @@ a:focus, a:hover {
   About us section
 ==================================================================*/
 .about {
+  text-align: justify;
   background: #fff;
 }
 
@@ -756,6 +757,7 @@ a:focus, a:hover {
   About us 2 section
 ==================================================================*/
 .about-2 {
+  text-align: justify;
   background: #F5DF4D;
 }
 
