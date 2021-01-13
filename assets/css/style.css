@@ -51,7 +51,7 @@ a, a:focus, a:hover {
 }
 
 a:focus, a:hover {
-  color: #F9E547;
+  color: #F5DF4D;
 }
 
 .btn-main, .btn-main-sm {
@@ -732,7 +732,7 @@ a:focus, a:hover {
 
 .about h4 {
   font-size: 14px;
-  color: #F9E547;
+  color: #F5DF4D;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -756,7 +756,7 @@ a:focus, a:hover {
   About us 2 section
 ==================================================================*/
 .about-2 {
-  background: #F9E547;
+  background: #F5DF4D;
 }
 
 .about-2 h2 {
@@ -1702,7 +1702,7 @@ a:focus, a:hover {
   Footer section
 ==================================================================*/
 .top-footer {
-  background-color: #222222;
+  background-color: #F5DF4D;
   border-top: 1px solid #404040;
   padding: 100px 0 80px;
 }
@@ -1720,7 +1720,7 @@ a:focus, a:hover {
 .top-footer p {
   font-size: 13px;
   line-height: 30px;
-  color: #bdbdbd;
+  color: #F5DF4D;
   font-weight: 300;
   padding-right: 20px;
 }
@@ -1728,7 +1728,7 @@ a:focus, a:hover {
 .top-footer li a {
   font-size: 13px;
   line-height: 30px;
-  color: #bdbdbd;
+  color: #F5DF4D;
   font-weight: 300;
   letter-spacing: 1px;
   text-transform: capitalize;
