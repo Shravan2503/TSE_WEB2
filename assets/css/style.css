@@ -434,7 +434,7 @@ a:focus, a:hover {
 .commonTab .nav-tabs .nav-item .nav-link:hover {
   border: 1px solid #F5DF4D;
   border-radius: 0;
-  background: #939597;
+  background: ##f0326b;
   color: #fff;
 }
 
