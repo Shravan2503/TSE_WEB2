@@ -1702,13 +1702,13 @@ a:focus, a:hover {
   Footer section
 ==================================================================*/
 .top-footer {
-  text-align: center;
   background-color: #F5DF4D;
   border-top: 1px solid #F5DF4D;
   padding: 100px 0 80px;
 }
 
 .top-footer h3 {
+  text-align: center;
   font-size: 16px;
   line-height: 1.5;
   color: #fff;
@@ -1719,6 +1719,7 @@ a:focus, a:hover {
 }
 
 .top-footer p {
+  text-align: center;
   font-size: 13px;
   line-height: 30px;
   color: #939597;
@@ -1727,6 +1728,7 @@ a:focus, a:hover {
 }
 
 .top-footer li a {
+  text-align: center;
   font-size: 13px;
   line-height: 30px;
   color: #939597;
