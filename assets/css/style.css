@@ -9,7 +9,7 @@ p {
   font-family: "Titillium Web", sans-serif;@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 body {
   line-height: 1.4;
-  color: #97999B;
+  color: #939597;
   font-size: 15px;
 }
 
@@ -55,7 +55,7 @@ a:focus, a:hover {
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #F9E547;
+  background-color: #F5DF4D;
   background-image: linear-gradient(100deg, #f9643d, #fe2a77);
   color: #fff;
   display: inline-block;
@@ -333,7 +333,7 @@ a:focus, a:hover {
 
 .title h2 {
   font-size: 35px;
-  color: #97999B;
+  color: #939597;
   text-transform: capitalize;
   margin-bottom: 8px;
   font-weight: 700;
@@ -348,7 +348,7 @@ a:focus, a:hover {
 }
 
 .title p {
-  color: #97999B;
+  color: #939597;
   width: 50%;
   margin: 0 auto;
 }
@@ -376,7 +376,7 @@ a:focus, a:hover {
 }
 
 .bg-gray {
-  background: #F9E547;
+  background: #F5DF4D;
 }
 
 .color-gray {
@@ -392,17 +392,17 @@ a:focus, a:hover {
 }
 
 .header-bradcrumb {
-  background: #F9E547;
+  background: #F5DF4D;
 }
 
 .header-bradcrumb a, .header-bradcrumb .active {
-  color: #F9E547;
+  color: #F5DF4D;
   font-weight: 200;
   font-family: "Titillium Web", sans-serif;
 }
 
 .header-bradcrumb a:hover {
-  color: #F9E547;
+  color: #F5DF4D;
 }
 
 .slick-slide {
@@ -419,22 +419,22 @@ a:focus, a:hover {
 }
 
 .commonTab .nav-tabs .nav-item .nav-link {
-  background: #F9E547;
+  background: #F5DF4D;
   color: #777;
   text-transform: capitalize;
   border-radius: 0;
 }
 
 .commonTab .nav-tabs .nav-item .nav-link.active {
-  border: 1px solid #F9E547;
-  background: #F9E547;
+  border: 1px solid #F5DF4D;
+  background: #F5DF4D;
   color: #fff;
 }
 
 .commonTab .nav-tabs .nav-item .nav-link:hover {
-  border: 1px solid #F9E547;
+  border: 1px solid #F5DF4D;
   border-radius: 0;
-  background: #F9E547;
+  background: #F5DF4D;
   color: #fff;
 }
 
@@ -448,7 +448,7 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #F9E547;
+  background: #F5DF4D;
   padding: 50px 0;
   text-align: center;
   color: #fff;
@@ -465,7 +465,7 @@ a:focus, a:hover {
 }
 
 .single-page-header .breadcrumb li a {
-  color: #f0326b;
+  color: #F5DF4D;
 }
 
 .navigation {
@@ -489,7 +489,7 @@ a:focus, a:hover {
 }
 
 .navigation .navbar-nav > li > a {
-  color: #97999B;
+  color: #939597;
   font-size: 15px;
   line-height: 26px;
   padding: 20px 15px !important;
@@ -510,7 +510,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: #F9E547;
+  color: #F5DF4D;
 }
 
 .navigation .navbar-toggler {
@@ -536,7 +536,7 @@ a:focus, a:hover {
 
 .navigation .dropdown .dropdown-item:hover {
   background: transparent;
-  color: #F9E547;
+  color: #F5DF4D;
 }
 
 .navigation .dropdown .dropdown-menu {
