@@ -14,16 +14,16 @@ item      :
   - icon  : tf-ion-ios-alarm-outline
     title : Copy Writing
     list  :
-      - name : Television Commercial Scripts.
-      - name : Social Media Content.
-      - name : Design & Packaging.
+      - name : Television Commercial Scripts
+      - name : Social Media Content
+      - name : Design & Packaging
       - name : Print Advertising
 
   - icon  : tf-ion-ios-book-outline
     title : Creative Writing
     list  :
-      - name : Scripting, Films
       - name : Branding, Ideas
       - name : Landing pages
       - name : AD campaigns
+      - name : Scripting
       
