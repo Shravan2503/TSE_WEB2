@@ -6,23 +6,24 @@ item      :
   - icon  : tf-ion-ios-copy-outline
     title : Content Writing
     list  :
+      - name : Blogs & Articles
       - name : Academic papers
       - name : Assignments
-      - name : Blogs & Articles
-      - name :  SOPs & LORs
+      - name : Mail-in 
 
   - icon  : tf-ion-ios-alarm-outline
     title : Copy Writing
     list  :
-      - name : Print Adversiting
-      - name : Television Commercial Scripts
-      - name : Social Media Content
+      - name : Television Commercial Scripts.
+      - name : Social Media Content.
       - name : Design & Packaging.
+      - name : Print Advertising
 
   - icon  : tf-ion-ios-book-outline
     title : Creative Writing
     list  :
-      - name : Branding, Ideas
       - name : Scripting, Films
-      - name : Web Content
-      - name : Ad Campaigns
+      - name : Branding, Ideas
+      - name : Landing pages
+      - name : AD campaigns
+      
