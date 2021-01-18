@@ -14,9 +14,9 @@ item      :
   - icon  : tf-ion-ios-alarm-outline
     title : Copy Writing
     list  :
-      - name : Adverts, Print & TVCs
-      - name : Account management
-      - name : Social Media
+      - name : Print ads
+      - name : TVC scripts
+      - name : Social Media Content
       - name : Design, Packaging.
 
   - icon  : tf-ion-ios-book-outline
