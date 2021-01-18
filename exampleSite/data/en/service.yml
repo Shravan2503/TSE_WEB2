@@ -8,16 +8,16 @@ item      :
     list  :
       - name : Academic papers
       - name : Assignments
-      - name : SOPs & LORs
       - name : Blogs & Articles
+      - name :  SOPs & LORs
 
   - icon  : tf-ion-ios-alarm-outline
     title : Copy Writing
     list  :
-      - name : Print ads
-      - name : TVC scripts
+      - name : Print Adversiting
+      - name : Television Commercial Scripts
       - name : Social Media Content
-      - name : Design, Packaging.
+      - name : Design & Packaging.
 
   - icon  : tf-ion-ios-book-outline
     title : Creative Writing
