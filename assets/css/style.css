@@ -511,7 +511,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > a:hover, .navigation .navbar-nav > li > a:active, .navigation .navbar-nav > li > a:focus {
   background: none;
-  color: #939597;
+  color: #f0326b;
 }
 
 .navigation .navbar-toggler {
