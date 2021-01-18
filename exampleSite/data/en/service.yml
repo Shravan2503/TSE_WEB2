@@ -6,8 +6,8 @@ item      :
   - icon  : tf-ion-ios-copy-outline
     title : Content Writing
     list  :
-      - name : Blogs & Articles
       - name : Academic papers
+      - name : Blogs & Articles
       - name : Assignments
       - name : Mail-in 
 
