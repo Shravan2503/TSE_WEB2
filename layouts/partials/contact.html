@@ -23,6 +23,13 @@
                 </div>
             </div>
             <div class="col-12 col-md-4">
+               <div class="address-block contact-meta-block">
+                    <i class="tf-ion-android-pin"></i>
+                    <h4>Head Office</h4>
+                    {{ with .Site.Params.contact.address }}<p>{{ . | safeHTML }}</p>{{ end }}
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
                 <div class="phone-block contact-meta-block">
                     <i class="tf-ion-ios-email"></i>
                     <h4>Drop a message</h4>
