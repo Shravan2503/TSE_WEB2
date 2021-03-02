@@ -19,26 +19,24 @@
                <div class="address-block contact-meta-block">
                     <i class="tf-ion-android-pin"></i>
                     <h4>Chennai Office</h4>
-                    {{ with .Site.Params.contact.address }}<p>{{ . | safeHTML }}</p>{{ end }}
+                     <p>
+                         {{ with .Site.Params.contact.address }}{{ . }}{{ end }}
+                         <br>{{ with .Site.Params.contact.phone}}{{.}} {{ end }} 
+                         <br> {{ with .Site.Params.contact.email }}{{ . }} {{ end }}
+                    </p>
                 </div>
             </div>
              <div class="col-12 col-md-5">
                <div class="address-block contact-meta-block">
                     <i class="tf-ion-android-pin"></i>
                     <h4>UK Office</h4>
-                    {{ with .Site.Params.contact.address1 }}<p>{{ . | safeHTML }}</p>{{ end }}
-                </div>
-            </div>
-            <div class="col-12 col-md-5">
-                <div class="phone-block contact-meta-block">
-                    <i class="tf-ion-ios-email"></i>
-                    <h4>Drop a message</h4>
-                    <p>
-                         {{ with .Site.Params.contact.phone }}Office: {{.}} {{ end }} 
-                        <br> {{ with .Site.Params.contact.fax }} Email: {{ . }} {{ end }}
+                      <p>
+                         {{ with .Site.Params.contact.address1 }}{{ . }}{{ end }}
+                         <br>{{ with .Site.Params.contact.phone1 }}{{.}} {{ end }} 
+                         <br> {{ with .Site.Params.contact.email1 }}{{ . }} {{ end }}
                     </p>
                 </div>
-             </div>
+            </div>
         </div>
     </div>
 </section>
