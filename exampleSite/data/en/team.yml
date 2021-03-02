@@ -8,13 +8,7 @@ member  :
     name          : Shravan
     designation   : Creative Director
     description   : >
-      A professional engineer, a published author and an adman. Business Communication CEFR C1, trained at British Council, Chennai. 
-     
-  - image         : images/team/member-2.jpg
-    name          : Baranidharan S
-    designation   : Production Head
-    description   : >
-      A film industry professional with a background in mechanical engineering. A director passionate to capture stories on film.
+      A professional engineer, a published author and an adman. Business Communication CEFR C1, trained at British Council, Chennai.
       
   - image         : images/team/member-3.jpg
     name          : Mithru Kumar
@@ -22,3 +16,9 @@ member  :
     designation   : Visual Artists
     description   : >
      Food, Fashion & Product.
+     
+  - image         : images/team/member-2.jpg
+    name          : Baranidharan S
+    designation   : Production Head
+    description   : >
+      A film industry professional with a background in mechanical engineering. A director passionate to capture stories on film.
