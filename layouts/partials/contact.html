@@ -23,13 +23,6 @@
                 </div>
             </div>
             <div class="col-12 col-md-4">
-               <div class="address-block contact-meta-block">
-                    <i class="tf-ion-android-pin"></i>
-                    <h4>UK Office</h4>
-                    {{ with .Site.Params.contact.address1 }}<p>{{ . | safeHTML }}</p>{{ end }}
-                </div>
-            </div>
-            <div class="col-12 col-md-4">
                 <div class="phone-block contact-meta-block">
                     <i class="tf-ion-ios-email"></i>
                     <h4>Drop a message</h4>
@@ -37,6 +30,13 @@
                          {{ with .Site.Params.contact.phone }}Office: {{.}} {{ end }} 
                         <br> {{ with .Site.Params.contact.fax }} Email: {{ . }} {{ end }}
                     </p>
+                </div>
+             </div>
+             <div class="col-12 col-md-4">
+               <div class="address-block contact-meta-block">
+                    <i class="tf-ion-android-pin"></i>
+                    <h4>UK Office</h4>
+                    {{ with .Site.Params.contact.address1 }}<p>{{ . | safeHTML }}</p>{{ end }}
                 </div>
             </div>
         </div>
