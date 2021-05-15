@@ -4,26 +4,26 @@ title     : Our Services.
 subtitle  : The services we offer are personalised, modestly packaged, intuitive and quick.
 item      :
   - icon  : tf-ion-ios-copy-outline
-    title : Content Writing
+    title : Content
     list  :
-      - name : Academic papers
       - name : Blogs & Articles
-      - name : Assignments
-      - name : Mail-in 
+      - name : Social Media
+      - name : Academia
+      - name : Mail-in  
 
-  - icon  : tf-ion-ios-alarm-outline
-    title : Copy Writing
+  - icon  : tf-ion-ios-phone-outline
+    title : Advertising
     list  :
-      - name : Television Commercial Scripts
-      - name : Social Media Content
+      - name : Branding/Ideation
+      - name : Print copies
       - name : Design & Packaging
-      - name : Print Advertising
+      - name : Landing pages
 
   - icon  : tf-ion-ios-book-outline
-    title : Creative Writing
+    title : Screenplays
     list  :
-      - name : Branding, Ideas
-      - name : Landing pages
-      - name : Campaigns
-      - name : Shorts
+      - name : Feature Length
+      - name : Documentaries
+      - name : TVCs
+      - name : Short Films
       
