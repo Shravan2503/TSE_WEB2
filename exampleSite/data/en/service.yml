@@ -3,24 +3,21 @@ topTitle  : A LIST OF SERVICES
 title     : Our Services.
 subtitle  : The services we offer are personalised, modestly packaged, intuitive and quick.
 item      :
-  - icon  : tf-ion-ios-book-outline
-    title : Content
+  - title : Content
     list  :
       - name : Blogs & Articles
       - name : Social Media
       - name : Academia
       - name : Mail-in  
 
-  - icon  : tf-ion-ios-copy-outline
-    title : Advertising
+  - title : Advertising
     list  :
       - name : Branding/Ideation
       - name : Print copies
       - name : Design & Packaging
       - name : Landing pages
 
-  - icon  : tf-ion-ios-book-outline
-    title : Screenplays
+  - title : Screenplays
     list  :
       - name : Feature Length
       - name : Documentaries
