@@ -3,7 +3,7 @@ topTitle  : A LIST OF SERVICES
 title     : Our Services.
 subtitle  : The services we offer are personalised, modestly packaged, intuitive and quick.
 item      :
-  - icon  : tf-ion-ios-copy-outline
+  - icon  : tf-ion-ios-book-outline
     title : Content
     list  :
       - name : Blogs & Articles
@@ -11,7 +11,7 @@ item      :
       - name : Academia
       - name : Mail-in  
 
-  - icon  : tf-ion-ios-lock-outline
+  - icon  : tf-ion-ios-copy-outline
     title : Advertising
     list  :
       - name : Branding/Ideation
