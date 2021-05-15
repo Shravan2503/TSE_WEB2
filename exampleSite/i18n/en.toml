@@ -10,15 +10,15 @@ other = "Blog"
 other = "Contact"
 
 [graphicdesign]
-other = "Content Writing"
+other = "Content"
 [webdesign]
-other = "Copy Writing"
+other = "Advertising"
 [webdevelopment]
-other = "Creative Writing"
+other = "Screenplays"
 
 [partners]
 other = "Partners"
 [faqs]
 other = "FAQ's"
 [badges]
-other = "Badges"
+other = "Info"
