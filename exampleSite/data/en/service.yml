@@ -11,7 +11,7 @@ item      :
       - name : Academia
       - name : Mail-in  
 
-  - icon  : tf-ion-ios-computer-outline
+  - icon  : tf-ion-ios-bulb-outline
     title : Advertising
     list  :
       - name : Branding/Ideation
