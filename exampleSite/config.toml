@@ -67,11 +67,11 @@ topTitle= "DROP US A NOTE"
 title   = "Contact Us."
 subtitle= "Let's get in touch and let the world experience your ideas!"
 address = "Artisans Lab, 78/103, Dr Radhakrishanan Salai, Mylapore, Chennai"
-address1 = "A3FOD, Jains Palm N Meadows, Ammapalayam, Tiruppur"
-phone   = "+91 97919 31119"
-phone1 = "+91 88383 12485"
-email   = "shravan@thescriptexpress.com"
-email1  = "gokulshravana@gmail.com"
+address1 = ""
+phone   = ""
+phone1 = ""
+email   = ""
+email1  = ""
 
 # Site Menus
 [menu]
