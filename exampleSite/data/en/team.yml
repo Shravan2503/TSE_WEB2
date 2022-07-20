@@ -1,24 +1,17 @@
-enable  : true
+enable  : false
 topTitle: TEAM MEMBERS
 title   : The team.
 subtitle: People, what they bring to the table, and credentials; to value. 
 
 member  :
   - image         : images/team/member-1.jpeg
-    name          : Shravan
+    name          : Gokul
     designation   : Creative Director
     description   : >
       A professional engineer, a published author and an adman. Business Communication CEFR C1, trained at British Council, Chennai.
-      
-  - image         : images/team/member-3.jpg
-    name          : Mithru Kumar
-    name2         : Shivam
-    designation   : Visual Artists
-    description   : >
-     Food, Fashion & Product.
      
   - image         : images/team/member-2.jpg
-    name          : Baranidharan S
+    name          : Barani
     designation   : Production Head
     description   : >
       A film industry professional with a background in mechanical engineering. A director passionate to capture stories on film.
